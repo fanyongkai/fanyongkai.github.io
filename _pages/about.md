@@ -12,7 +12,7 @@ Data Security Research Lab(DSRL) Leb by [Fan Yongkai(范永开)](https://fanyong
 
 NEWS
 ======
-1. DRSL is under the consideration of [miracleplus venture capital company] https://www.miracleplus.com/ investment.
+1. DRSL is under the consideration of [miracleplus venture capital company] (https://www.miracleplus.com/) investment.
 
 2. 2020 Granduate Student WU Guodong and HU Qian win China National Scholarship in 2023 Dec.
 
