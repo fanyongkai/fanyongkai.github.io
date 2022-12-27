@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Data Security Research Lab(DSRL) Leb by [Fan Yongkai(范永开)](https://fanyongkai.github.io) and Located on Campus of Communication University China[Communication University China](http://www.cuc.edu.cn/), which is a research branch of State Key Lab. DSRL focus on the Data life cycle research, including Data Genernation, Data Collection, Data Transmission, Data Processing and Data Destroy. From the technical research viewpoint, the resecha interesing of this Lab includes AI, BlockChain, Data Security, Privcy-Preserving etc.
+Data Security Research Lab(DSRL) Leb by [Fan Yongkai(范永开)](https://fanyongkai.github.io) and Located on Campus of [Communication University China](http://www.cuc.edu.cn/), which is a research branch of State Key Lab. DSRL focus on the Data life cycle research, including Data Genernation, Data Collection, Data Transmission, Data Processing and Data Destroy. From the technical research viewpoint, the resecha interesing of this Lab includes AI, BlockChain, Data Security, Privcy-Preserving etc.
 
 PI: Fan Yongkai(范永开)
 ======
@@ -22,9 +22,11 @@ In Scientific research: He has presided over 16 vertical and horizontal projects
 
 NEWS
 ======
-DRSL is under in the consideration of [miracleplus] https://www.miracleplus.com/ venture capital company
-2020 Granduate Student WU Guodong and HU Qian win China National Scholarship in 2023 Dec.
-2020 Granduate Student Guo Jiaming, WU Guodong and HU Qian win First Level stdent scholarship in 2023 Dec.
+1. DRSL is under the consideration of [miracleplus venture capital company] https://www.miracleplus.com/ investment.
+
+2. 2020 Granduate Student WU Guodong and HU Qian win China National Scholarship in 2023 Dec.
+
+3. 2020 Granduate Student Guo Jiaming, WU Guodong and HU Qian win First Level stdent scholarship in 2023 Dec.
 
 
 
