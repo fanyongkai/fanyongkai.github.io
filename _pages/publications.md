@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
 Data Security 数据安全方向（2019-至今,第一作者或通讯作者）
-====
+======
 
 1.Xia Lei, Yongkai Fan, Optimal Control of Asymmetrical Multi-Agent Switching Systems，IEEE Transactions on Green Communications and Networking， (通讯作者，学生1作，JCR1区),2022
 
