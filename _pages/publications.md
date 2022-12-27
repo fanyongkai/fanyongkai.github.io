@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-数据安全方向（2019-至今,第一作者或通讯作者）
+Data Security 数据安全方向（2019-至今,第一作者或通讯作者）
 ====
 
 1.Xia Lei, Yongkai Fan, Optimal Control of Asymmetrical Multi-Agent Switching Systems，IEEE Transactions on Green Communications and Networking， (通讯作者，学生1作，JCR1区),2022
@@ -51,7 +51,7 @@ author_profile: true
 1.Yongkai Fan, CSCAC: one Constant-size CPABE Access Control scheme in Trusted Execution Environment, International Journal of Computational Science and Engineering(EI国际期刊)，2019
 
 
-软件工程方向（2006-2016，仅第一作者，其他共同作者论文未列）
+Software Engineering 软件工程方向（2006-2016，仅第一作者，其他共同作者论文未列）
 ======
 1.Yongkai Fan, One Message Chain Based Cooperation Mechanism for Component Based Software Generation, DEStech Transactions on Computer Science and Engineering（2017 International Conference on Applied Mechanics and Mechanical Automation）, 2017
 
