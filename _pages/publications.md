@@ -4,10 +4,8 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-
 Data Security 数据安全方向（2019-至今,第一作者或通讯作者）
 ======
-
 1. Xia Lei, Yongkai Fan, Optimal Control of Asymmetrical Multi-Agent Switching Systems，IEEE Transactions on Green Communications and Networking， (通讯作者，学生1作，JCR1区),2022
 1. Yongkai Fan, Robust End Hopping for Secure Satellite Communication in Moving Target Defense, IEEE IoT （JCR1区+中科院1区+IoT类顶刊), 2022
 1. Xia Lei, Yongkai Fan,Fine-Grained Visual Interpretability for Convolutional Neural Network, Digital Communications and Networks (通讯作者，学生1作，JCR1区+中科院1区),2022
@@ -29,7 +27,6 @@ Data Security 数据安全方向（2019-至今,第一作者或通讯作者）
 1. Yongkai Fan, One Secure IoT Scheme for Protection of True Nodes, Leture Note in Computer Science（EI国际期刊）, 2019。
 1. Yongkai Fan, One Secure Access Scheme based on Trusted Execution Environment, TrustCom18, (CCF推荐会议，EI)，2018
 1. Yongkai Fan, CSCAC: one Constant-size CPABE Access Control scheme in Trusted Execution Environment, International Journal of Computational Science and Engineering(EI国际期刊)，2019
-
 
 Software Engineering 软件工程方向（2006-2016，仅第一作者，其他共同作者论文未列）
 ======
