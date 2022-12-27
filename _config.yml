@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Data Security Research Lab(数据安全研究室)"
+title                    : "Data Security Research Lab"
 title_separator          : "-"
 name                     : &name "Fan Yongkai(范永开)"
 description              : &description "Data Security Lab PI@communication University of China"
