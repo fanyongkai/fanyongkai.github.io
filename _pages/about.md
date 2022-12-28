@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Data Security Research Lab(DSRL) Leb by [Fan Yongkai(范永开)](https://fanyongkai.github.io) and Located on Campus of [Communication University China](http://www.cuc.edu.cn/), which is a research branch of State Key Lab. DSRL focus on the Data life cycle research, including Data Genernation, Data Collection, Data Transmission, Data Processing and Data Destroy. From the technical research viewpoint, the resecha interesing of this Lab includes AI, BlockChain, Data Security, Privcy-Preserving etc.
+Data Security Research Lab(DSRL) Led by [Fan Yongkai(范永开)](https://fanyongkai.github.io) and Located on Campus of [Communication University China](http://www.cuc.edu.cn/), which is a research branch of State Key Lab. DSRL focus on the Data life cycle research, including Data Genernation, Data Collection, Data Transmission, Data Processing and Data Destroy. From the technical research viewpoint, the resecha interesing of this Lab includes AI, BlockChain, Data Security, Privcy-Preserving etc.
 
 NEWS
 ======
