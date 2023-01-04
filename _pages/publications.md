@@ -6,12 +6,13 @@ author_profile: true
 ---
 Data Security 数据安全方向（2019-至今,第一作者或通讯作者）
 ======
-1. Xia Lei, Yongkai Fan, Optimal Control of Asymmetrical Multi-Agent Switching Systems，IEEE Transactions on Green Communications and Networking， (通讯作者，学生1作，JCR1区),2022.
-1. Yongkai Fan, Robust End Hopping for Secure Satellite Communication in Moving Target Defense, IEEE IoT （JCR1区+中科院1区+IoT类顶刊), 2022.
-1. Xia Lei, Yongkai Fan,Fine-Grained Visual Interpretability for Convolutional Neural Network, Digital Communications and Networks (通讯作者，学生1作，JCR1区+中科院1区),2022.
+1. Yongkai Fan,Validating the integrity of Convolutional Neural Network predictions based on Zero-Knowledge Proof, information Science, （中科院1区+CCF B期刊), 2023
+1. Fine-Grained Visual Interpretability fValidating the integrity of Convolutional, Digital Communications and Networks (通讯作者，学生1作，JCR1区+中科院1区),2023.
+1. Optimal Control of Asymmetrical Multi-Agent Switching Systems，IEEE Transactions on Green Communications and Networking， (通讯作者，学生1作，JCR1区),2022.
+1. Yongkai Fan, Robust End Hopping for Secure Satellite Communication in Moving Target Defense, IEEE IoTJ （JCR1区+中科院1区+IoT类顶刊), 2022.
 1. Yongkai Fan, Privacy-Preserving Deep Learning on Big Data in Cloud, China Communication  (JCR2区+中科院3区), 2022.
 1. Yongkai Fan, A Study on Optimally Constructed Compactly Supported Orthogonal Wavelet Filters, Computer Science and Information Systems (JCR3区+中科院4区), 2022.
-1. Xia Lei, Yongkai Fan, CIDNN: A Provably Convergent Interpretation for Deep Neural Networks，Applied Soft Computing Journal， （通讯作者，学生1作，JCR1区+中科院1区+CCF 推荐期刊)，2021.
+1. CIDNN: A Provably Convergent Interpretation for Deep Neural Networks，Applied Soft Computing Journal， （通讯作者，学生1作，JCR1区+中科院1区+CCF 推荐期刊)，2021.
 1. Yongkai Fan, Data Privacy Preserving of K-means Clustering Algorithm Based on Secure Multi-party Computing, JPDC, （JCR1区+中科院1区+CCF B期刊)，2021.
 1. Yongkai Fan, SBBS: A Secure Blockchain-based Scheme for IoT Data Credibility in Fog Environment,IEEE IoT, （JCR1区+中科院1区+IoT类顶刊), 2021. 
 1. Yongkai Fan, One Enhanced Secure Access Scheme for Outsourced Data, information Science, （JCR1区+中科院1区+CCF B期刊), 2021. 
