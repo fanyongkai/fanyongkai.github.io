@@ -8,26 +8,26 @@ Data Security 数据安全方向（2019-至今,第一作者或通讯作者）
 ======
 1. Yongkai Fan,Validating the integrity of Convolutional Neural Network predictions based on Zero-Knowledge Proof, information Science, （中科院1区+CCF B期刊), 2023
 1. Fine-Grained Visual Interpretability fValidating the integrity of Convolutional, Digital Communications and Networks (通讯作者，学生1作，JCR1区+中科院1区),2023.
-1. Optimal Control of Asymmetrical Multi-Agent Switching Systems，IEEE Transactions on Green Communications and Networking， (通讯作者，学生1作，JCR1区),2022.
-1. Yongkai Fan, Robust End Hopping for Secure Satellite Communication in Moving Target Defense, IEEE IoTJ （JCR1区+中科院1区+IoT类顶刊), 2022.
-1. Yongkai Fan, Privacy-Preserving Deep Learning on Big Data in Cloud, China Communication  (JCR2区+中科院3区), 2022.
-1. Yongkai Fan, A Study on Optimally Constructed Compactly Supported Orthogonal Wavelet Filters, Computer Science and Information Systems (JCR3区+中科院4区), 2022.
-1. CIDNN: A Provably Convergent Interpretation for Deep Neural Networks，Applied Soft Computing Journal， （通讯作者，学生1作，JCR1区+中科院1区+CCF 推荐期刊)，2021.
-1. Yongkai Fan, Data Privacy Preserving of K-means Clustering Algorithm Based on Secure Multi-party Computing, JPDC, （JCR1区+中科院1区+CCF B期刊)，2021.
-1. Yongkai Fan, SBBS: A Secure Blockchain-based Scheme for IoT Data Credibility in Fog Environment,IEEE IoT, （JCR1区+中科院1区+IoT类顶刊), 2021. 
-1. Yongkai Fan, One Enhanced Secure Access Scheme for Outsourced Data, information Science, （JCR1区+中科院1区+CCF B期刊), 2021. 
-1. Yongkai Fan, Privacy Preserving Based Logistic Regression on Big Data, Journal of Network and Computer Application, （JCR1区+中科院1区+CCF 推荐期刊), 2020.
-1. Yongkai Fan, SNPL: One Scheme of Securing Nodes in IoT Perception Layer, Sensors, （JCR1区+中科院2区),2020.
-1. Secure Data Storage and Recovery in Industrial Blockchain Network Environments, IEEE Transactions on Industrial Informatics,( JCR1区+中科院1区+高被引),2020.
-1. Yongkai Fan，A Security Scheme for Fog Computing Environment of IoT，IoT S&P workshop in CCS 19，CCS, 2019.
-1. Yongkai Fan , A Blockchain-Based Data-Sharing Architecture, Blocksys19，2019.
-1. Yongkai Fan, TraceChain: a blockchain-based scheme to protect data confidentiality and traceability, Software: Practice and Experience, (CCF 推荐B类期刊 +  JCR 2区 + 中科院3区)，2019.
-1. Yongkai Fan, A Secure Privacy Preserving Deduplication Scheme for Cloud Computing, Future Generation Computer Systems（JCR1区+中科院1区+CCF推荐期刊), 2019.
-1. Yongkai Fan, One Secure Data Integrity Verification Scheme for Cloud Computing, Future Generation Computer Systems（JCR1区+中科院1区+CCF推荐期刊), 2019.
-1. Yongkai Fan, Fine-Grained Access Control Based on Trusted Execution Environment，Future Generation Computer Systems（JCR1区+中科院1区+CCF推荐期刊), 2020.
-1. Yongkai Fan, One Secure IoT Scheme for Protection of True Nodes, Leture Note in Computer Science（EI国际期刊）, 2019.
-1. Yongkai Fan, One Secure Access Scheme based on Trusted Execution Environment, TrustCom18, (CCF推荐会议，EI)，2018.
-1. Yongkai Fan, CSCAC: one Constant-size CPABE Access Control scheme in Trusted Execution Environment, International Journal of Computational Science and Engineering(EI国际期刊)，2019.
+2. Yongkai Fan, Privacy-Preserving Deep Learning on Big Data in Cloud, China Communication  (JCR 1区), 2023.
+3. Optimal Control of Asymmetrical Multi-Agent Switching Systems，IEEE Transactions on Green Communications and Networking， (通讯作者，学生1作，JCR1区),2022.
+4. Yongkai Fan, Robust End Hopping for Secure Satellite Communication in Moving Target Defense, IEEE IoTJ （JCR1区+中科院1区+IoT类顶刊), 2022.
+5. Yongkai Fan, A Study on Optimally Constructed Compactly Supported Orthogonal Wavelet Filters, Computer Science and Information Systems (JCR3区+中科院4区), 2022.
+6. CIDNN: A Provably Convergent Interpretation for Deep Neural Networks，Applied Soft Computing Journal， （通讯作者，学生1作，JCR1区+中科院1区+CCF 推荐期刊)，2021.
+7. Yongkai Fan, Data Privacy Preserving of K-means Clustering Algorithm Based on Secure Multi-party Computing, JPDC, （JCR1区+中科院1区+CCF B期刊)，2021.
+8. Yongkai Fan, SBBS: A Secure Blockchain-based Scheme for IoT Data Credibility in Fog Environment,IEEE IoT, （JCR1区+中科院1区+IoT类顶刊), 2021. 
+9. Yongkai Fan, One Enhanced Secure Access Scheme for Outsourced Data, information Science, （JCR1区+中科院1区+CCF B期刊), 2021. 
+10. Yongkai Fan, Privacy Preserving Based Logistic Regression on Big Data, Journal of Network and Computer Application, （JCR1区+中科院1区+CCF 推荐期刊), 2020.
+11. Yongkai Fan, SNPL: One Scheme of Securing Nodes in IoT Perception Layer, Sensors, （JCR1区+中科院2区),2020.
+12. Secure Data Storage and Recovery in Industrial Blockchain Network Environments, IEEE Transactions on Industrial Informatics,( JCR1区+中科院1区+高被引),2020.
+13. Yongkai Fan，A Security Scheme for Fog Computing Environment of IoT，IoT S&P workshop in CCS 19，CCS, 2019.
+14. Yongkai Fan , A Blockchain-Based Data-Sharing Architecture, Blocksys19，2019.
+15. Yongkai Fan, TraceChain: a blockchain-based scheme to protect data confidentiality and traceability, Software: Practice and Experience, (CCF 推荐B类期刊 +  JCR 2区 + 中科院3区)，2019.
+16. Yongkai Fan, A Secure Privacy Preserving Deduplication Scheme for Cloud Computing, Future Generation Computer Systems（JCR1区+中科院1区+CCF推荐期刊), 2019.
+17. Yongkai Fan, One Secure Data Integrity Verification Scheme for Cloud Computing, Future Generation Computer Systems（JCR1区+中科院1区+CCF推荐期刊), 2019.
+18. Yongkai Fan, Fine-Grained Access Control Based on Trusted Execution Environment，Future Generation Computer Systems（JCR1区+中科院1区+CCF推荐期刊), 2020.
+19. Yongkai Fan, One Secure IoT Scheme for Protection of True Nodes, Leture Note in Computer Science（EI国际期刊）, 2019.
+20. Yongkai Fan, One Secure Access Scheme based on Trusted Execution Environment, TrustCom18, (CCF推荐会议，EI)，2018.
+21. Yongkai Fan, CSCAC: one Constant-size CPABE Access Control scheme in Trusted Execution Environment, International Journal of Computational Science and Engineering(EI国际期刊)，2019.
 
 Software Engineering 软件工程方向（2006-2016，仅第一作者，其他共同作者论文未列）
 ======
