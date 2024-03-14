@@ -6,9 +6,9 @@ author_profile: true
 ---
 Data Security 数据安全方向（2019-至今,第一作者或通讯作者）
 ======
-1.Yongkai Fan, ValidCNN: A large-scale CNN predictive integrity verification scheme based on zk-SNARK， TDSC，2024（CCF A，中科院1区）
-1.Yongkai Fan,psvCNN: A Zero-Knowledge CNN Prediction Integrity Verification Strategy，IEEE Transactions on Cloud Computing，（中科院1区+云计算顶刊）2024
-1.Aspect-level Sentiment Analysis Based on Aspect-Sentence Graph Convolution Network， Information fusion， （通讯作者，中科院1区+ 影响因子18，超NC)，2024
+1. Yongkai Fan, ValidCNN: A large-scale CNN predictive integrity verification scheme based on zk-SNARK， TDSC，2024（CCF A，中科院1区）
+2. Yongkai Fan,psvCNN: A Zero-Knowledge CNN Prediction Integrity Verification Strategy，IEEE Transactions on Cloud Computing，（中科院1区+云计算顶刊）2024
+3. Aspect-level Sentiment Analysis Based on Aspect-Sentence Graph Convolution Network， Information fusion， （通讯作者，中科院1区+ 影响因子18，超NC)，2024
 1. Yongkai Fan,Validating the integrity of Convolutional Neural Network predictions based on Zero-Knowledge Proof, information Science, （中科院1区+CCF B期刊), 2023
 1. Fine-Grained Visual Interpretability fValidating the integrity of Convolutional, Digital Communications and Networks (通讯作者，学生1作，JCR1区+中科院1区),2023.
 2. Yongkai Fan, Privacy-Preserving Deep Learning on Big Data in Cloud, China Communication  (JCR 1区), 2023.
