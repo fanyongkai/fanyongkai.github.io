@@ -12,7 +12,7 @@ Data Security Research Lab(DSRL) Led by [Fan Yongkai(范永开)](https://fanyong
 
 NEWS
 ======
-1. 范永开获CCSIA杰作贡献奖，以表彰在数据安全领域的贡献（截止2024，学术界唯一）
+1. 范永开获CCSIA杰出贡献奖，以表彰在数据安全领域的贡献（截止2024，学术界唯一）
 2. DRSL is under the investment consideration of [mirccleplus venture capital company](https://www.miracleplus.com).
 1. 2020 Granduate Student WU Guodong and HU Qian win China National Scholarship in 2023 Dec.
 1. 2020 Granduate Student Guo Jiaming, WU Guodong and HU Qian win First Level stdent scholarship in 2023 Dec.
